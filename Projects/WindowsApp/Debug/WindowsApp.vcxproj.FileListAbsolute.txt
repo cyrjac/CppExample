@@ -1,0 +1,2 @@
+C:\Project\CppExample\Projects\WindowsApp\Debug\WindowsApp.exe
+C:\Project\CppExample\Projects\WindowsApp\Debug\WindowsApp.pdb
